@@ -7,7 +7,7 @@
 # Challenges and Difficulties Encountered
   While completing this analysis, I ran into a few challenges that brought me to a hault a couple of times. I had an issue with the =Countifs function. It took time and research to figure out what I was doing wrong because I knew the calculations were not correct. I figured out that I was entering the wrong data columns in the function. I also spent time trying to figure out why my Outcomes_vs_goals graph did not show the true failed line data. The failed line on my graph showed the same as the canceled data, which did not match the data on the chart. I did try to research and resolve the issue by looking up videos on youtube. 
   
-![image_name](https://github.com/Renesha1/kickstarter-analysis/blob/main/VisualChart1.png)
+Theater_Outcomes_vs_Launch.png
 
 ## Analysis of Outcomes Based on Launch Date
   According to the line graph created, the successful outcomes skyrocketed between April and May and begin to decline consistently in June and incresed slightly between September and October and begin to decline the remainder of the year. As successful outcomes rose between March and May so did the number of failed outcomes. The graph also shows the more successful outcomes the more failed outcomes were still less. 
