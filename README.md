@@ -9,6 +9,8 @@
   
 https://github.com/Renesha1/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png
 
+https://github.com/Renesha1/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png
+
 ## Analysis of Outcomes Based on Launch Date
   According to the line graph created, the successful outcomes skyrocketed between April and May and begin to decline consistently in June and incresed slightly between September and October and begin to decline the remainder of the year. As successful outcomes rose between March and May so did the number of failed outcomes. The graph also shows the more successful outcomes the more failed outcomes were still less. 
   
