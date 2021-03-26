@@ -19,17 +19,17 @@ https://github.com/Renesha1/kickstarter-analysis/blob/main/Theater_Outcomes_vs_L
 https://github.com/Renesha1/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png
 
 ## Analysis of Outcomes Based on Launch Date
- + According to the line graph created, the successful outcomes skyrocketed between April and May and begin to decline consistently in June and incresed slightly between  September and October and begin to decline the remainder of the year.
- + As successful outcomes rose between March and May so did the number of failed outcomes. 
- + The graph also shows the more successful outcomes the more failed outcomes were still less. 
++ According to the line graph created, the successful outcomes skyrocketed between April and May and begin to decline consistently in June and incresed slightly between  September and October and begin to decline the remainder of the year.
++ As successful outcomes rose between March and May so did the number of failed outcomes. 
++ The graph also shows the more successful outcomes the more failed outcomes were still less. 
   
 ## Analysis of Outcomes Based on Goals
-  +The line graph and chart implicated as the goal amount increased the failed outcomes increased. 
+ + The line graph and chart implicated as the goal amount increased the failed outcomes increased. 
   
 ## Results
-  +Some limitations of this data set is currency is different for some countries therefore the calculated data may not be accurate. 
-  +It would be helpful to have the number of participants for each campaign and how much the tickets were sold for to compare how many people attended for each campaign.
-  +A pivot table and graph can be created to show the best outcome of the theatre parent category to see what subcategory acheived and succeeded the goals. 
-  +A table and graph could be created to show which country had the most increased succesful outcomes between the years 2014 through 2016. 
++ Some limitations of this data set is currency is different for some countries therefore the calculated data may not be accurate. 
++ It would be helpful to have the number of participants for each campaign and how much the tickets were sold for to compare how many people attended for each campaign.
++ A pivot table and graph can be created to show the best outcome of the theatre parent category to see what subcategory acheived and succeeded the goals. 
++ A table and graph could be created to show which country had the most increased succesful outcomes between the years 2014 through 2016. 
   
 
